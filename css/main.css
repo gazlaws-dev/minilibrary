@@ -1,0 +1,40 @@
+.mainfont {
+    /*    font-family: 'Noto Sans', sans-serif;*/
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    color: #234045;
+}
+
+.navbar-color {
+    background-color: #4e335f;
+    opacity: 0.9;
+}
+
+.navbar-brand {
+    font-size: 1.1em;
+    font-variant: small-caps;
+    color: white;
+}
+
+
+.navbar-nav > li > a{
+    background-color: #4e335f;
+    color: #ffb59a;
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    background-color: #714c88;
+    color: #ffb59a;
+}
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.sem_btn {
+    font-size: 1.6em; 
+}
+p{
+  font-size: 1.3em;  
+}
